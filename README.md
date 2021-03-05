@@ -9,13 +9,13 @@
 <h1 align="center">Programação Orientada a Objetos</h1>
 
 <p align="center">
-  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/isabellazramos/programacao-orientada-a-objetos?color=56BEB8">
+  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/isabellazramos/Programacao-Orientada-a-Objetos?color=56BEB8">
 
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/isabellazramos/programacao-orientada-a-objetos?color=56BEB8">
+  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/isabellazramos/Programacao-Orientada-a-Objetos?color=56BEB8">
 
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/isabellazramos/programacao-orientada-a-objetos?color=56BEB8">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/isabellazramos/Programacao-Orientada-a-Objetos?color=56BEB8">
 
-  <img alt="Licença" src="https://img.shields.io/github/license/isabellazramos/programacao-orientada-a-objetos?color=56BEB8">
+  <img alt="Licença" src="https://img.shields.io/github/license/isabellazramos/Programacao-Orientada-a-Objetos?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/isabellazramos/programacao-orientada-a-objetos?color=56BEB8" /> -->
 
