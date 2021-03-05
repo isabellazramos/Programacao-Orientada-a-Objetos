@@ -6,7 +6,7 @@
   <!-- <a href="https://programacaoorientadaaobjetos.netlify.com">Demo</a> -->
 </div>
 
-<h1 align="center">Programaçao Orientada a Objetos</h1>
+<h1 align="center">Programação Orientada a Objetos</h1>
 
 <p align="center">
   <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/isabellazramos/programacao-orientada-a-objetos?color=56BEB8">
